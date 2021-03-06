@@ -1,0 +1,31 @@
+p {
+    margin: 10px;
+}
+
+.caption {
+    margin-bottom: 20px;
+}
+
+#about {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+}
+
+nav {
+    display: list-item;
+	list-style: square;
+    font-size: 18px;
+}
+
+.image {
+    width: 640px;
+    height: auto;
+}
+
+h2 {
+    background-color: aquamarine;
+}
+
+footer{
+    padding: 20px;
+}
