@@ -6,6 +6,11 @@ p {
     margin: 10px;
 }
 
+li {
+    font-size: larger;
+    padding: 5px;
+}
+
 .caption {
     margin-bottom: 20px;
 }
