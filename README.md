@@ -1,4 +1,4 @@
-# html-me-something
-For assignment 4 (LC101)
+# Home Page for me
 
-This is a demonstration of my ability to use basic HTML and CSS as part of an assignment for LaunchCode
+##This is a demonstration of my ability to use basic HTML and CSS
+... and have a little home page
